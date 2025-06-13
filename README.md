@@ -34,7 +34,7 @@ cargo build
 cd program
 ```
 
-2. Compile the RISC-ELF
+2. Compile the Rust code into a RISC-ELF
 
 ```bash
 cargo prove build
