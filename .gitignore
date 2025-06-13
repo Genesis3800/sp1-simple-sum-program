@@ -1,0 +1,20 @@
+# Rust build artifacts
+/target/
+**/target/
+Cargo.lock
+
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build info
+.rustc_info.json
+
+# proof related files
+script/proof_with_public_values.bin
+script/vkey.bin
