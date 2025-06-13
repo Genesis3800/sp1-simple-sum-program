@@ -62,6 +62,9 @@ cd script
 cargo run -- execute --a 3 --b 500
 ```
 
+![execute](https://github.com/user-attachments/assets/26bdc828-349a-4a05-bb03-72245476a7f8)
+
+
 ## Generate a proof
 
 1. Make sure you're in the `script` directory
@@ -72,6 +75,9 @@ cargo run -- execute --a 3 --b 500
 cargo run -- prove --a 3 --b 500
 ```
 
+![proof](https://github.com/user-attachments/assets/a7011966-04e5-4086-84cf-6b0a21bd5777)
+
+
 ## Verify a proof
 
 1. Make sure you're in the `script` directory
@@ -81,4 +87,7 @@ cargo run -- prove --a 3 --b 500
 ```bash
 cargo run -- verify
 ```
+
+![verify](https://github.com/user-attachments/assets/b08a4d3a-3dd8-4258-a346-b43f69aef1b0)
+
 
